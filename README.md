@@ -1,3 +1,3 @@
-# Anchore and Snyk
+# Open Source Security with Anchore & Snyk
 
-## Introduction
+Open source software components and dependencies are increasingly making up a vast majority of software applications. Along with the increased usage of OSS comes the inherent security risks these packages expose. Enterprises looking to adopt a greater open source footprint should also employ effective tooling and process to identify and mitigate the potential risks these libraries pose. 
